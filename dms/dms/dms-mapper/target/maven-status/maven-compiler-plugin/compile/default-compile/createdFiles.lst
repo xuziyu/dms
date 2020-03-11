@@ -1,0 +1,6 @@
+com\caili\mapper\UserExtMapper.class
+com\caili\mapper\DmsMemberMasterEntityMapper.class
+com\caili\mapper\DmsMemberMasterExtMapper.class
+com\caili\mapper\DdmsMemberMasterMapper.class
+com\caili\mapper\UserMapper.class
+com\caili\mapper\DmsMemberMasterMapper.class

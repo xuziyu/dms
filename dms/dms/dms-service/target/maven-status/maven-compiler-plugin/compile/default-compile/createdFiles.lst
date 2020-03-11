@@ -1,0 +1,11 @@
+com\caili\service\AuthService.class
+com\caili\service\impl\UserServiceImpl.class
+com\caili\service\QQAuthService.class
+com\caili\service\DmsMemberMaterService.class
+com\caili\service\impl\DmsMemberMaterImpl.class
+com\caili\config\Constants.class
+com\caili\service\impl\QQAuthServiceImpl.class
+META-INF\spring-configuration-metadata.json
+com\caili\service\impl\TestServiceImpl.class
+com\caili\service\TestService.class
+com\caili\service\UserService.class

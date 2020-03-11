@@ -1,0 +1,11 @@
+litemall:
+  # 开发者应该设置成自己的wx相关信息
+  wx:
+    app-id: wx93d22c6ce21a2054
+    app-secret: 6aea0ab5c00b64ba88e8d7b378d69eb3
+    mch-id: 1540575911
+    mch-key: wisesystemmall0709wisesystemmall
+    notify-url: http://wisemall.supert.vip/wx/order/pay-notify
+    # 商户证书文件路径
+    # 请参考“商户证书”一节 https://pay.weixin.qq.com/wiki/doc/api/wxa/wxa_api.php?chapter=4_3
+    key-path: classpath:cert/apiclient_cert.p12

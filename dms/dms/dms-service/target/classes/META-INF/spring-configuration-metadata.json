@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "constants",
+      "type": "com.caili.config.Constants",
+      "sourceType": "com.caili.config.Constants"
+    }
+  ],
+  "properties": [
+    {
+      "name": "constants.qq-app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    },
+    {
+      "name": "constants.qq-app-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    },
+    {
+      "name": "constants.qq-redirect-url",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    },
+    {
+      "name": "constants.we-chat-app-id",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    },
+    {
+      "name": "constants.we-chat-app-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    },
+    {
+      "name": "constants.we-chat-redirect-url",
+      "type": "java.lang.String",
+      "sourceType": "com.caili.config.Constants"
+    }
+  ],
+  "hints": []
+}
